@@ -1,8 +1,8 @@
- # SyntaxMamba
+ # SparSyn
 
   Official repository for the paper:
 
-  **SyntaxMamba: Sparse Codec Syntax Modeling for Mobile Compressed-Domain Video Action Recognition**
+  **SparSyn: Native Codec Syntax Modeling for Mobile Compressed Video Action Recognition**
 
   ## Status
 
